@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-	cout << "First code !";
+	cout << "First code ! \n";
+	cout << "Second linecode hurry ...";
 	return 0;
 }
